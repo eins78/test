@@ -1,3 +1,8 @@
+id: 1
+reporter: eins78
+
+--
+
 # Need to test the workflow
 
 This is a manually created issue in a Mardown file.
